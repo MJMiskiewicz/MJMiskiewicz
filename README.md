@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 
+
+I'm a mathematician working at University of Warsaw. I write some code from time to time, mostly for research or teaching purposes; I might share some of it here in the future. See [my webpage](https://www.mimuw.edu.pl/~mis/) if you like to know more about what I'm doing. 
 
 <!--
 **MJMiskiewicz/MJMiskiewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
